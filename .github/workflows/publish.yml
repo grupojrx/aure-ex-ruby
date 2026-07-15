@@ -1,4 +1,4 @@
-# RubyGems Trusted Publisher (OIDC): org=grupojrx, repo=aure-ex-ruby, workflow=publish.yml
+# RubyGems Trusted Publisher (OIDC): org=grupojrx, repo=aurepay-ruby, workflow=publish.yml
 # Só publica se o SDK mudou vs latest no RubyGems.
 name: Publish RubyGems
 
